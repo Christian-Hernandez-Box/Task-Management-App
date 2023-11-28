@@ -2,6 +2,9 @@
 
 Task Manager Pro is a desktop application developed using TKinter, a Python GUI toolkit, to provide users with an efficient and user-friendly task management experience. This project showcases a seamless blend of interactive design, robust error handling, and adherence to coding best practices, resulting in a reliable and maintainable application.
 
+<img width="297" alt="Screenshot 2023-11-27 at 11 54 41 PM" src="https://github.com/Christian-Hernandez-Box/Task-Management-App/assets/118034327/82e36bbd-30a7-43cf-bb8e-21410cbc4af4">
+
+
 ```
 from tkinter import *
 from tkinter import messagebox
